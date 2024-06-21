@@ -36,7 +36,7 @@ Página web de agencia de viajes, con formulario para datos del usuario, creada 
 TodoList en la plataforma Apigee, desarollada en javascript que ofrece todos los métodos CRUD
 [![Repositorio](https://img.shields.io/badge/Repositorio-URL-blue)](http://github.com/yourrepo)
 
-Puedes encontrarme en las siguientes redes:
+## Puedes encontrarme en las siguientes redes:
 
 [![Webpage](https://img.shields.io/badge/Github-URL-blue)](https://github.com/mendozandy/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-URL-blue)](https://www.linkedin.com/in/andrea-ag%C3%BCero-mendoza-463769209/)
