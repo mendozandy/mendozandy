@@ -34,7 +34,7 @@ Página web de agencia de viajes, con formulario para datos del usuario, creada 
 ### Lista de Tareas
 ![Lista de Tareas](https://your-image-url.png)
 TodoList en la plataforma Apigee, desarollada en javascript que ofrece todos los métodos CRUD
-[![Repositorio](https://img.shields.io/badge/Repositorio-URL-blue)](http://github.com/yourrepo)
+[![Repositorio](https://img.shields.io/badge/Repositorio-URL-blue)](https://github.com/mendozandy/API-Proxy-ToDoListJS)
 
 ## Puedes encontrarme en las siguientes redes:
 
