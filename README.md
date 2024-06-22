@@ -27,14 +27,18 @@ Graduada en Ingenieria en Informática con experiencia en desarrollo web y lider
 ## Proyectos
 
 ### Basic Web Pages of Travel Agency
-![Travel Agency](![image](https://github.com/mendozandy/mendozandy/assets/88110252/c16cf23f-4d08-4501-b859-4be0c1aba50c))
+![travel](https://github.com/mendozandy/mendozandy/assets/88110252/6b7d75e1-ab81-4457-9aef-d94a2493d005)
+
 Página web de agencia de viajes, con formulario para datos del usuario, creada para el proceso de aprendizaje en css
+
 [![Repositorio](https://img.shields.io/badge/Repositorio-URL-blue)](https://github.com/mendozandy/Basic-web-pages-of-travel-agency)
 
-### Lista de Tareas
-![Lista de Tareas](https://your-image-url.png)
-TodoList en la plataforma Apigee, desarollada en javascript que ofrece todos los métodos CRUD
-[![Repositorio](https://img.shields.io/badge/Repositorio-URL-blue)](https://github.com/mendozandy/API-Proxy-ToDoListJS)
+### Video juego 2D
+![image](https://github.com/mendozandy/mendozandy/assets/88110252/ee72e9c4-ef32-4f64-8d65-2f01b1dbf702)
+
+Juego interactivo para la práctica de javascript con framework Phaser y HTML
+
+[![Repositorio](https://img.shields.io/badge/Repositorio-URL-blue)](https://github.com/mendozandy/VG---HungryCat-)
 
 ## Puedes encontrarme en las siguientes redes:
 
